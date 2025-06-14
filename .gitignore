@@ -1,1 +1,40 @@
+# Archivos de Eclipse
+/.classpath
+/.project
+/.settings/
+
+# Archivos generados por el compilador
+*.class
+*.war
+*.jar
+
+# Carpetas comunes de compilación
+/bin/
+/target/
+/build/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Directorios específicos de servidores
+/.tomcat/
+/servers/
+
+# IDEs adicionales
+/.idea/
+*.iml
+
+# Archivos temporales
+*.swp
+*.swo
+*.bak
+*~
+
+# Archivos de respaldo
+*.orig
+*.rej
 /build/
